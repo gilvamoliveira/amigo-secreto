@@ -2,7 +2,7 @@
 
 Aplicação web para realizar sorteios de amigo secreto, com validação de nomes duplicados e sorteio sem repetição.
 
-**Demo online:** https://gilvamoliveira.github.io/Projeto-Alura-Amigo-Oculto/
+**Demo online:** https://gilvamoliveira.github.io/amigo-secreto/
 
 ![Demonstração do Amigo Secreto](demo/amigo-secreto.gif)
 
@@ -36,7 +36,7 @@ demo/amigo-secreto.gif
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/GilvamOliveira/Projeto-Alura-Amigo-Oculto.git
+git clone https://github.com/GilvamOliveira/amigo-secreto.git
 ```
 
 2. Abra `Challenge_Amigo_Secreto/index.html` no navegador.
