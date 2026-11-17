@@ -2,7 +2,7 @@
 
 Aplicação web para realizar sorteios de amigo secreto, com validação de nomes duplicados e sorteio sem repetição.
 
-**Demo online:** https://gilvamoliveira.github.io/amigo-secreto/
+[Acessar a aplicação](https://gilvamoliveira.github.io/amigo-secreto/)
 
 ![Demonstração do Amigo Secreto](demo/amigo-secreto.gif)
 
